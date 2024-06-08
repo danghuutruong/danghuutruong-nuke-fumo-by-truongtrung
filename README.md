@@ -21,7 +21,7 @@ This bot was developed by **truongtrung**, a web developer with experience using
     - and open the downloaded file
 
 2. **Install `discord.js`**:
-    - Use the command `npm install discord.js` and `npm init -y` along with `npm install` to install the library.
+    - Use the command `npm init -y` and `npm install` along with `npm install discord.js` to install the library.
 
 3. **Run the Bot**:
     - Press the run button and select Node.js to start the bot.
@@ -74,7 +74,7 @@ Bot này được phát triển bởi **truongtrung**, một nhà phát triển 
     - và mở file đã tải xuống
       
 2. **Cài đặt `discord.js`**:
-    - Sử dụng lệnh `npm install discord.js` và `npm init-y` cùng với `npm install` để cài đặt thư viện.
+    - Sử dụng lệnh `npm init-y` và `npm install` cùng với `npm install discord.js` để cài đặt thư viện.
    
 
 3. **Chạy bot**:
