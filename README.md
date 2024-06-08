@@ -1,5 +1,3 @@
-Sure, here's the English translation for your GitHub introduction:
-
 ### ENGLISH
 
 ## Introduction
