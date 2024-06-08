@@ -40,9 +40,9 @@ New Server Name is for changing the server name, e.g., "NUKE FUMO BY TRUONGTRUNG
 If you want to make specific changes, here is an example:
 In the `main.js` file, you will need to find the tags:
 
-```// Tạo các kênh mới
+// Tạo các kênh mới
 // Gửi tin nhắn đến kênh cuối cùng đã tạo
-// Tạo các vai trò mới```
+// Tạo các vai trò mới
 
 You just need to change according to your preferences.
 
@@ -94,10 +94,10 @@ new Server Name lad đổi tên máy chủ ví dụ "NUKE FUMO BY TRUONGTRUNG"
 niếu bạn muốn đổi riêng mình và đây tôi ví dụ chỉ bạn.
 trong file `main.js` bạn sẽ phải tìm mà tôi đã tag
 
-```// Tạo các kênh mới
+// Tạo các kênh mới
 // Gửi tin nhắn đến kênh cuối cùng đã tạo
 // Tạo các vai trò mới
-bạn chỉ cần đổi theo ý muốn là được```
+bạn chỉ cần đổi theo ý muốn là được
 
 ### Lưu ý:
 - Thêm bot vào máy chủ Discord để kiểm tra.
